@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "liferay_objects_integration"
+  org = "crmtest"
+  version = "0.1.0"
+
